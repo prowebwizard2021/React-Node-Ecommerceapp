@@ -26,7 +26,7 @@ function App() {
                       <h2>{product.name}</h2>
                     </a>
                     <div className="rating">
-                      <span> <i className="fa fa-stars"></i> </span>
+                      <span> <i className="fa fa-star"></i> </span>
                       <span> <i className="fa fa-star"></i> </span>
                       <span> <i className="fa fa-star"></i> </span>
                       <span> <i className="fa fa-star"></i> </span>
